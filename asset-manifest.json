@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cyberability/static/css/main.92cf9661.chunk.css",
+    "main.js": "/cyberability/static/js/main.a0345aec.chunk.js",
+    "main.js.map": "/cyberability/static/js/main.a0345aec.chunk.js.map",
+    "runtime-main.js": "/cyberability/static/js/runtime-main.3e25df6a.js",
+    "runtime-main.js.map": "/cyberability/static/js/runtime-main.3e25df6a.js.map",
+    "static/css/2.1a583b20.chunk.css": "/cyberability/static/css/2.1a583b20.chunk.css",
+    "static/js/2.7eac9ed5.chunk.js": "/cyberability/static/js/2.7eac9ed5.chunk.js",
+    "static/js/2.7eac9ed5.chunk.js.map": "/cyberability/static/js/2.7eac9ed5.chunk.js.map",
+    "index.html": "/cyberability/index.html",
+    "static/css/2.1a583b20.chunk.css.map": "/cyberability/static/css/2.1a583b20.chunk.css.map",
+    "static/css/main.92cf9661.chunk.css.map": "/cyberability/static/css/main.92cf9661.chunk.css.map",
+    "static/js/2.7eac9ed5.chunk.js.LICENSE.txt": "/cyberability/static/js/2.7eac9ed5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e25df6a.js",
+    "static/css/2.1a583b20.chunk.css",
+    "static/js/2.7eac9ed5.chunk.js",
+    "static/css/main.92cf9661.chunk.css",
+    "static/js/main.a0345aec.chunk.js"
+  ]
+}
