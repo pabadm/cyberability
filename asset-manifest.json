@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/cyberability/static/css/main.92cf9661.chunk.css",
-    "main.js": "/cyberability/static/js/main.96e26b44.chunk.js",
-    "main.js.map": "/cyberability/static/js/main.96e26b44.chunk.js.map",
-    "runtime-main.js": "/cyberability/static/js/runtime-main.3e25df6a.js",
-    "runtime-main.js.map": "/cyberability/static/js/runtime-main.3e25df6a.js.map",
+    "main.js": "/cyberability/static/js/main.65f5a661.chunk.js",
+    "main.js.map": "/cyberability/static/js/main.65f5a661.chunk.js.map",
+    "runtime-main.js": "/cyberability/static/js/runtime-main.f47a7ab3.js",
+    "runtime-main.js.map": "/cyberability/static/js/runtime-main.f47a7ab3.js.map",
     "static/css/2.1a583b20.chunk.css": "/cyberability/static/css/2.1a583b20.chunk.css",
-    "static/js/2.9b645e68.chunk.js": "/cyberability/static/js/2.9b645e68.chunk.js",
-    "static/js/2.9b645e68.chunk.js.map": "/cyberability/static/js/2.9b645e68.chunk.js.map",
+    "static/js/2.b5c49c2c.chunk.js": "/cyberability/static/js/2.b5c49c2c.chunk.js",
+    "static/js/2.b5c49c2c.chunk.js.map": "/cyberability/static/js/2.b5c49c2c.chunk.js.map",
     "index.html": "/cyberability/index.html",
     "static/css/2.1a583b20.chunk.css.map": "/cyberability/static/css/2.1a583b20.chunk.css.map",
     "static/css/main.92cf9661.chunk.css.map": "/cyberability/static/css/main.92cf9661.chunk.css.map",
-    "static/js/2.9b645e68.chunk.js.LICENSE.txt": "/cyberability/static/js/2.9b645e68.chunk.js.LICENSE.txt"
+    "static/js/2.b5c49c2c.chunk.js.LICENSE.txt": "/cyberability/static/js/2.b5c49c2c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e25df6a.js",
+    "static/js/runtime-main.f47a7ab3.js",
     "static/css/2.1a583b20.chunk.css",
-    "static/js/2.9b645e68.chunk.js",
+    "static/js/2.b5c49c2c.chunk.js",
     "static/css/main.92cf9661.chunk.css",
-    "static/js/main.96e26b44.chunk.js"
+    "static/js/main.65f5a661.chunk.js"
   ]
 }
